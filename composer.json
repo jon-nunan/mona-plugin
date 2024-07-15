@@ -30,7 +30,7 @@
         "composer-plugin-api": "^2.0 || ^2.1",
         "composer/installers": "^1.11 || ^2.0",
         "cweagans/composer-patches": "^1.7",
-        "drush/drush": "^8.4"
+        "drush/drush": "^8.4 || ^9.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "@stable",
